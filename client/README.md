@@ -1,6 +1,7 @@
 # Project 3 Care Chat 
 ## Bootcamp Challenge 20: React
 [![UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
+[![Care Chat](https://img.shields.io/badge/Project%203-Care%20Chat-red)](https://github.com/Arthur528/project-care-chat)
 
 ## Technologies
 ![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
