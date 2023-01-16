@@ -22,8 +22,8 @@ This is very basic I know it that it does't fall under the requirements of proje
 A link to the [GitHub](https://github.com/Arthur528/project-care-chat):
 ```
 https://github.com/Arthur528/project-care-chat
-
-
-A link to the [original github](https://github.com/Arthur528/care-chat):
+```
+A link to the deployed [Original GitHub](https://github.com/Arthur528/care-chat):
 ```
 https://github.com/Arthur528/care-chat
+```
