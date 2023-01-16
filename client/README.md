@@ -1,5 +1,5 @@
 # Project 3 Care Chat 
-## Bootcamp Challenge 20: React
+## Project 3 Tags
 [![UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
 [![Care Chat](https://img.shields.io/badge/Project%203-Care%20Chat-red)](https://github.com/Arthur528/project-care-chat)
 
@@ -19,6 +19,11 @@ This project is a fantastic opportunity to show employers your collaborative ski
 This is very basic I know it that it does't fall under the requirements of project 3, per Joe's comment "A react project that allows for CRUD of some sort of item (albeit without a database attached) will be enough to satisfy project 3 requirements." qouted from Joe Rehfuss on Slack to me. I put some backend in it even though Joe waived the backend requirement. 
   
 ## Link
-A link to the [code](https://github.com/Arthur528/project-care-chat):
+A link to the [GitHub](https://github.com/Arthur528/project-care-chat):
 ```
 https://github.com/Arthur528/project-care-chat
+
+
+A link to the [original github](https://github.com/Arthur528/care-chat):
+```
+https://github.com/Arthur528/care-chat
